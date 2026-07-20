@@ -1,5 +1,3 @@
-[file name]: main (6).py
-[file content begin]
 import telebot
 from telebot.types import (
     InlineKeyboardMarkup, InlineKeyboardButton,
